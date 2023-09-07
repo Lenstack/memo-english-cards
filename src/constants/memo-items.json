@@ -1,0 +1,1492 @@
+[
+  {
+    "Verb": "Abide",
+    "Pronunciation": "əˈbaɪd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abi/abide/abide__gb_1.mp3",
+    "Present": "abide/abides",
+    "PastSimple": "abode/abided",
+    "PastParticiple": "abode/abided",
+    "Spanish": "acatar/permanecer",
+    "Photo": "https://plus.unsplash.com/premium_photo-1664287397425-4e9aab665ba9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80"
+  },
+  {
+    "Verb": "Arise",
+    "Pronunciation": "əˈraɪz",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ari/arise/arise__gb_2.mp3",
+    "Present": "arise/arises",
+    "PastSimple": "arose",
+    "PastParticiple": "arisen",
+    "Spanish": "surgir",
+    "Photo": "https://images.unsplash.com/photo-1586134886196-326476035f6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Awake",
+    "Pronunciation": "əˈweɪk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/awa/awake/awake__gb_1.mp3",
+    "Present": "awake/awakes",
+    "PastSimple": "awoke",
+    "PastParticiple": "awoken",
+    "Spanish": "despertar",
+    "Photo": "https://images.unsplash.com/photo-1507141975227-b9e55279a1f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2012&q=80"
+  },
+  {
+    "Verb": "Bear",
+    "Pronunciation": "beər",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/bear_/bear__gb_1.mp3",
+    "Present": "bear/bears",
+    "PastSimple": "bore",
+    "PastParticiple": "born/borne",
+    "Spanish": "llevar/sostener",
+    "Photo": "https://images.unsplash.com/photo-1501770118606-b1d640526693?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Beat",
+    "Pronunciation": "biːt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bea/beat_/beat__gb_3.mp3",
+    "Present": "beat/beats",
+    "PastSimple": "beat",
+    "PastParticiple": "beaten",
+    "Spanish": "vencer/golpear",
+    "Photo": "https://images.unsplash.com/photo-1495555687398-3f50d6e79e1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Become",
+    "Pronunciation": "bɪˈkʌm",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bec/becom/become__gb_1.mp3",
+    "Present": "become/becomes",
+    "PastSimple": "became",
+    "PastParticiple": "become",
+    "Spanish": "convertirse",
+    "Photo": "https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80"
+  },
+  {
+    "Verb": "Begin",
+    "Pronunciation": "bɪˈɡɪn",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/beg/begin/begin__gb_1.mp3",
+    "Present": "begin/begins",
+    "PastSimple": "began",
+    "PastParticiple": "begun",
+    "Spanish": "empezar",
+    "Photo": "https://images.unsplash.com/photo-1634912889606-3a6486a1f336?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1972&q=80"
+  },
+  {
+    "Verb": "Bend",
+    "Pronunciation": "bend",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ben/bend_/bend__gb_1.mp3",
+    "Present": "bend/bends",
+    "PastSimple": "bent",
+    "PastParticiple": "bent",
+    "Spanish": "doblar/inclinar",
+    "Photo": "https://images.unsplash.com/photo-1560233075-4c1e2007908e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2030&q=80"
+  },
+  {
+    "Verb": "Bet",
+    "Pronunciation": "bet",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bet/bet__/bet__gb_1.mp3",
+    "Present": "bet/bets",
+    "PastSimple": "bet",
+    "PastParticiple": "bet",
+    "Spanish": "apostar",
+    "Photo": "https://images.unsplash.com/photo-1446669052213-5dcff53f1f3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80"
+  },
+  {
+    "Verb": "Bid",
+    "Pronunciation": "bɪd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bid/bid__/bid__gb_1.mp3",
+    "Present": "bid/bids",
+    "PastSimple": "bade/bid",
+    "PastParticiple": "bidden/bid",
+    "Spanish": "pujar/ofrecer",
+    "Photo": "https://plus.unsplash.com/premium_photo-1661940814738-5a028d647d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Bind",
+    "Pronunciation": "baɪnd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bin/bind_/bind__gb_1.mp3",
+    "Present": "bind/binds",
+    "PastSimple": "bound",
+    "PastParticiple": "bound",
+    "Spanish": "atar/unir",
+    "Photo": "https://images.unsplash.com/photo-1611576671497-155efceae453?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QmluZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Bite",
+    "Pronunciation": "baɪt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bit/bite_/bite__gb_1.mp3",
+    "Present": "bite/bites",
+    "PastSimple": "bit",
+    "PastParticiple": "bitten",
+    "Spanish": "morder",
+    "Photo": "https://images.unsplash.com/photo-1610556009296-a3125836f118?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Bleed",
+    "Pronunciation": "bliːd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ble/bleed/bleed__gb_1.mp3",
+    "Present": "bleed/bleeds",
+    "PastSimple": "bled",
+    "PastParticiple": "bled",
+    "Spanish": "sangrar",
+    "Photo": "https://images.unsplash.com/photo-1534998739173-06d781b6c6ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80"
+  },
+  {
+    "Verb": "Blow",
+    "Pronunciation": "bləʊ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/blo/blow_/blow__gb_1.mp3",
+    "Present": "blow/blows",
+    "PastSimple": "blew",
+    "PastParticiple": "blown",
+    "Spanish": "soplar",
+    "Photo": "https://images.unsplash.com/photo-1505806192075-a99924ef306a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2100&q=80"
+  },
+  {
+    "Verb": "Break",
+    "Pronunciation": "breɪk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/break/break__gb_1.mp3",
+    "Present": "break/breaks",
+    "PastSimple": "broke",
+    "PastParticiple": "broken",
+    "Spanish": "romper",
+    "Photo": "https://images.unsplash.com/photo-1567865204021-2da594ef9a44?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Breed",
+    "Pronunciation": "briːd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/breed/breed__gb_1.mp3",
+    "Present": "breed/breeds",
+    "PastSimple": "bred",
+    "PastParticiple": "bred",
+    "Spanish": "criar",
+    "Photo": "https://images.unsplash.com/photo-1518914781460-a3ada465edec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Bring",
+    "Pronunciation": "brɪŋ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/bring/bring__gb_1.mp3",
+    "Present": "bring/brings",
+    "PastSimple": "brought",
+    "PastParticiple": "brought",
+    "Spanish": "traer",
+    "Photo": "https://images.unsplash.com/photo-1519653791182-26b79fca3544?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2076&q=80"
+  },
+  {
+    "Verb": "Build",
+    "Pronunciation": "bɪld",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bui/build/build__gb_1.mp3",
+    "Present": "build/builds",
+    "PastSimple": "built",
+    "PastParticiple": "built",
+    "Spanish": "construir",
+    "Photo": "https://images.unsplash.com/photo-1531834685032-c34bf0d84c77?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1997&q=80"
+  },
+  {
+    "Verb": "Burn",
+    "Pronunciation": "bɜːn",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bur/burn_/burn__gb_1.mp3",
+    "Present": "burn/burns",
+    "PastSimple": "burnt/burned",
+    "PastParticiple": "burnt/burned",
+    "Spanish": "quemar",
+    "Photo": "https://images.unsplash.com/photo-1554768804-4300c5b7bb72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Burst",
+    "Pronunciation": "bɜːst",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bur/burst/burst__gb_1.mp3",
+    "Present": "burst/bursts",
+    "PastSimple": "burst",
+    "PastParticiple": "burst",
+    "Spanish": "estallar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1679954565372-6d0fed2bce02?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1956&q=80"
+  },
+  {
+    "Verb": "Buy",
+    "Pronunciation": "baɪ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/buy/buy__/buy__gb_1.mp3",
+    "Present": "buy/buys",
+    "PastSimple": "bought",
+    "PastParticiple": "bought",
+    "Spanish": "comprar",
+    "Photo": "https://images.unsplash.com/photo-1556742212-5b321f3c261b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Cast",
+    "Pronunciation": "kɑːst",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cas/cast_/cast__gb_1.mp3",
+    "Present": "cast/casts",
+    "PastSimple": "cast",
+    "PastParticiple": "cast",
+    "Spanish": "lanzar/emitir",
+    "Photo": "https://images.unsplash.com/photo-1560241852-557156733a6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2083&q=80"
+  },
+  {
+    "Verb": "Catch",
+    "Pronunciation": "kætʃ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cat/catch/catch__gb_1.mp3",
+    "Present": "catch/catches",
+    "PastSimple": "caught",
+    "PastParticiple": "caught",
+    "Spanish": "atrapar",
+    "Photo": "https://images.unsplash.com/photo-1554789047-fc7c41a16cde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q2F0Y2h8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Choose",
+    "Pronunciation": "tʃuːz",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cho/choos/choose__gb_2.mp3",
+    "Present": "choose/chooses",
+    "PastSimple": "chose",
+    "PastParticiple": "chosen",
+    "Spanish": "elegir",
+    "Photo": "https://images.unsplash.com/photo-1529079018732-bdb88456f8c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80"
+  },
+  {
+    "Verb": "Cling",
+    "Pronunciation": "klɪŋ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cli/cling/cling__gb_1.mp3",
+    "Present": "cling/clings",
+    "PastSimple": "clung",
+    "PastParticiple": "clung",
+    "Spanish": "aferrarse",
+    "Photo": "https://images.unsplash.com/photo-1519874502990-2ae0534e19e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80"
+  },
+  {
+    "Verb": "Come",
+    "Pronunciation": "kʌm",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/come_/come__gb_1.mp3",
+    "Present": "come/comes",
+    "PastSimple": "came",
+    "PastParticiple": "come",
+    "Spanish": "venir",
+    "Photo": "https://images.unsplash.com/photo-1534361960057-19889db9621e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Cost",
+    "Pronunciation": "kɒst",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cos/cost_/cost__gb_1.mp3",
+    "Present": "cost/costs",
+    "PastSimple": "cost",
+    "PastParticiple": "cost",
+    "Spanish": "costar",
+    "Photo": "https://images.unsplash.com/photo-1428546312530-9b556efe5a78?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
+  },
+  {
+    "Verb": "Creep",
+    "Pronunciation": "kriːp",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cre/creep/creep__gb_1.mp3",
+    "Present": "creep/creeps",
+    "PastSimple": "crept",
+    "PastParticiple": "crept",
+    "Spanish": "arrastrarse",
+    "Photo": "https://images.unsplash.com/photo-1647553223294-fe99c484a37c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fGFycmFzdHJhcnNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Cut",
+    "Pronunciation": "kʌt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cut/cut__/cut__gb_1.mp3",
+    "Present": "cut/cuts",
+    "PastSimple": "cut",
+    "PastParticiple": "cut",
+    "Spanish": "cortar",
+    "Photo": "https://images.unsplash.com/photo-1585849469222-fb9abe5404d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Deal",
+    "Pronunciation": "diːl",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dea/deal_/deal__gb_1.mp3",
+    "Present": "deal/deals",
+    "PastSimple": "dealt",
+    "PastParticiple": "dealt",
+    "Spanish": "tratar/negociar",
+    "Photo": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
+  },
+  {
+    "Verb": "Dig",
+    "Pronunciation": "dɪɡ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dig/dig__/dig__gb_1.mp3",
+    "Present": "dig/digs",
+    "PastSimple": "dug",
+    "PastParticiple": "dug",
+    "Spanish": "cavar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1680288921851-2d44dbb55435?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RGlnfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Dive",
+    "Pronunciation": "daɪv",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/div/dive_/dive__gb_1.mp3",
+    "Present": "dive/dives",
+    "PastSimple": "dived/dives",
+    "PastParticiple": "dived/dives",
+    "Spanish": "bucear",
+    "Photo": "https://images.unsplash.com/photo-1583364493238-248032147fbd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Do",
+    "Pronunciation": "duː",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/do_/do__g/do__gb_3.mp3",
+    "Present": "do/does",
+    "PastSimple": "did",
+    "PastParticiple": "done",
+    "Spanish": "hacer",
+    "Photo": "https://images.unsplash.com/photo-1567361602723-27ed7ded08fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1862&q=80"
+  },
+  {
+    "Verb": "Draw",
+    "Pronunciation": "drɔː",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dra/draw_/draw__gb_1.mp3",
+    "Present": "draw/draws",
+    "PastSimple": "drew",
+    "PastParticiple": "drawn",
+    "Spanish": "dibujar/tirar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1676838436377-b1f643d0955b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Drink",
+    "Pronunciation": "drɪŋk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dri/drink/drink__gb_1.mp3",
+    "Present": "drink/drinks",
+    "PastSimple": "drank",
+    "PastParticiple": "drunk",
+    "Spanish": "beber",
+    "Photo": "https://images.unsplash.com/photo-1613679358839-d897e8dc1437?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1934&q=80"
+  },
+  {
+    "Verb": "Drive",
+    "Pronunciation": "draɪv",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dri/drive/drive__gb_1.mp3",
+    "Present": "drive/drives",
+    "PastSimple": "drove",
+    "PastParticiple": "driven",
+    "Spanish": "conducir",
+    "Photo": "https://images.unsplash.com/photo-1524841268495-3921a3fb80c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80"
+  },
+  {
+    "Verb": "Eat",
+    "Pronunciation": "iːt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/eat/eat__/eat__gb_1.mp3",
+    "Present": "eat/eats",
+    "PastSimple": "ate",
+    "PastParticiple": "eaten",
+    "Spanish": "comer",
+    "Photo": "https://images.unsplash.com/photo-1529973565457-a60a2ccf750d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Fall",
+    "Pronunciation": "fɔːl",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fal/fall_/fall__gb_1.mp3",
+    "Present": "fall/falls",
+    "PastSimple": "fell",
+    "PastParticiple": "fallen",
+    "Spanish": "caer",
+    "Photo": "https://images.unsplash.com/photo-1543683840-c66117bdb1f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80"
+  },
+  {
+    "Verb": "Feed",
+    "Pronunciation": "fiːd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fee/feed_/feed__gb_1.mp3",
+    "Present": "feed/feeds",
+    "PastSimple": "fed",
+    "PastParticiple": "fed",
+    "Spanish": "alimentar",
+    "Photo": "https://images.unsplash.com/photo-1532598187460-98fe8826d1e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80"
+  },
+  {
+    "Verb": "Feel",
+    "Pronunciation": "fiːl",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fee/feel_/feel__gb_1.mp3",
+    "Present": "feel/feels",
+    "PastSimple": "felt",
+    "PastParticiple": "felt",
+    "Spanish": "sentir",
+    "Photo": "https://images.unsplash.com/photo-1541472561800-18b2c381d853?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Fight",
+    "Pronunciation": "faɪt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fig/fight/fight__gb_1.mp3",
+    "Present": "fight/fights",
+    "PastSimple": "fought",
+    "PastParticiple": "fought",
+    "Spanish": "pelear",
+    "Photo": "https://images.unsplash.com/photo-1591117207239-788bf8de6c3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80"
+  },
+  {
+    "Verb": "Find",
+    "Pronunciation": "faɪnd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fin/find_/find__gb_1.mp3",
+    "Present": "find/finds",
+    "PastSimple": "found",
+    "PastParticiple": "found",
+    "Spanish": "encontrar",
+    "Photo": "https://images.unsplash.com/photo-1498354178607-a79df2916198?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80"
+  },
+  {
+    "Verb": "Flee",
+    "Pronunciation": "fliː",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fle/flee_/flee__gb_1.mp3",
+    "Present": "flee/flees",
+    "PastSimple": "fled",
+    "PastParticiple": "fled",
+    "Spanish": "huir",
+    "Photo": "https://images.unsplash.com/photo-1489494098705-24dcbf192bd3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Fling",
+    "Pronunciation": "flɪŋ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fli/fling/fling__gb_1.mp3",
+    "Present": "fling/flings",
+    "PastSimple": "flung",
+    "PastParticiple": "flung",
+    "Spanish": "arrojar",
+    "Photo": "https://images.unsplash.com/photo-1536252107959-9aa5927cc6de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Fly",
+    "Pronunciation": "flaɪ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fly/fly__/fly__gb_1.mp3",
+    "Present": "fly/flies",
+    "PastSimple": "flew",
+    "PastParticiple": "flown",
+    "Spanish": "volar",
+    "Photo": "https://images.unsplash.com/photo-1525406580688-29f75b5e4c97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Forbid",
+    "Pronunciation": "fəˈbɪd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/for/forbi/forbid__gb_1.mp3",
+    "Present": "forbid/forbids",
+    "PastSimple": "forbade",
+    "PastParticiple": "forbidden",
+    "Spanish": "prohibir",
+    "Photo": "https://images.unsplash.com/photo-1523672557977-2c106afb2278?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
+  },
+  {
+    "Verb": "Forget",
+    "Pronunciation": "fəˈɡet",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/for/forge/forget__gb_1.mp3",
+    "Present": "forget/forgets",
+    "PastSimple": "forgot",
+    "PastParticiple": "forgotten",
+    "Spanish": "olvidar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1664536392577-a0d4257323f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Forgive",
+    "Pronunciation": "fəˈɡɪv",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/for/forgi/forgive__gb_1.mp3",
+    "Present": "forgive/forgives",
+    "PastSimple": "forgave",
+    "PastParticiple": "forgiven",
+    "Spanish": "perdonar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1672855675673-cd55cca6e9d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Rm9yZ2l2ZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Freeze",
+    "Pronunciation": "friːz",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fre/freez/freeze__gb_1.mp3",
+    "Present": "freeze/freezes",
+    "PastSimple": "froze",
+    "PastParticiple": "frozen",
+    "Spanish": "congelar",
+    "Photo": "https://images.unsplash.com/photo-1520222253649-1dadfc913978?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80"
+  },
+  {
+    "Verb": "Get",
+    "Pronunciation": "ɡet",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/get/get__/get__gb_1.mp3",
+    "Present": "get/gets",
+    "PastSimple": "got",
+    "PastParticiple": "got/gotten",
+    "Spanish": "obtener",
+    "Photo": "https://images.unsplash.com/photo-1598091874986-7da3b270fead?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2080&q=80"
+  },
+  {
+    "Verb": "Give",
+    "Pronunciation": "ɡɪv",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/giv/give_/give__gb_1.mp3",
+    "Present": "give/gives",
+    "PastSimple": "gave",
+    "PastParticiple": "given",
+    "Spanish": "dar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1661762785073-bdc78abc6560?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8R2l2ZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Go",
+    "Pronunciation": "ɡəʊ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/us/media/english/uk_pron/g/go_/go__g/go__gb_4.mp3",
+    "Present": "go/goes",
+    "PastSimple": "went",
+    "PastParticiple": "gone",
+    "Spanish": "ir",
+    "Photo": "https://images.unsplash.com/photo-1489410342162-b4b300a0bb15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Grind",
+    "Pronunciation": "ɡraɪnd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gri/grind/grind__gb_1.mp3",
+    "Present": "grind/grinds",
+    "PastSimple": "ground",
+    "PastParticiple": "ground",
+    "Spanish": "moler",
+    "Photo": "https://images.unsplash.com/photo-1492552085122-36706c238263?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2097&q=80"
+  },
+  {
+    "Verb": "Grow",
+    "Pronunciation": "ɡrəʊ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gro/grow_/grow__gb_1.mp3",
+    "Present": "grow/grows",
+    "PastSimple": "grew",
+    "PastParticiple": "grown",
+    "Spanish": "crecer",
+    "Photo": "https://images.unsplash.com/photo-1590415024718-798cdaab96dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80"
+  },
+  {
+    "Verb": "Hang",
+    "Pronunciation": "hæŋ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/han/hang_/hang__gb_1.mp3",
+    "Present": "hang/hangs",
+    "PastSimple": "hung",
+    "PastParticiple": "hung",
+    "Spanish": "colgar",
+    "Photo": "https://images.unsplash.com/photo-1522163182402-834f871fd851?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2003&q=80"
+  },
+  {
+    "Verb": "Have",
+    "Pronunciation": "hæv",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hav/have_/have__gb_1.mp3",
+    "Present": "have/has",
+    "PastSimple": "had",
+    "PastParticiple": "had",
+    "Spanish": "tener/haber",
+    "Photo": "https://images.unsplash.com/photo-1591375275293-710d9b053a0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHRlbmVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Hear",
+    "Pronunciation": "hɪər",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/hear_/hear__gb_1.mp3",
+    "Present": "hear/hears",
+    "PastSimple": "heard",
+    "PastParticiple": "heard",
+    "Spanish": "oír",
+    "Photo": "https://plus.unsplash.com/premium_photo-1687832783523-c945feb4185e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SGVhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Hide",
+    "Pronunciation": "haɪd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hid/hide_/hide__gb_1.mp3",
+    "Present": "hide/hides",
+    "PastSimple": "hid",
+    "PastParticiple": "hidden",
+    "Spanish": "esconder",
+    "Photo": "https://images.unsplash.com/photo-1483193722442-5422d99849bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Hit",
+    "Pronunciation": "hɪt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hit/hit__/hit__gb_1.mp3",
+    "Present": "hit/hits",
+    "PastSimple": "hit",
+    "PastParticiple": "hit",
+    "Spanish": "golpear",
+    "Photo": "https://images.unsplash.com/photo-1527437445244-7e10c0f68034?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2039&q=80"
+  },
+  {
+    "Verb": "Hold",
+    "Pronunciation": "həʊld",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hol/hold_/hold__gb_1.mp3",
+    "Present": "hold/holds",
+    "PastSimple": "held",
+    "PastParticiple": "held",
+    "Spanish": "sostener/celebrar",
+    "Photo": "https://images.unsplash.com/photo-1501770118606-b1d640526693?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Hurt",
+    "Pronunciation": "hɜːt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hur/hurt_/hurt__gb_1.mp3",
+    "Present": "hurt/hurts",
+    "PastSimple": "hurt",
+    "PastParticiple": "hurt",
+    "Spanish": "herir",
+    "Photo": "https://images.unsplash.com/photo-1609840534277-88833ef3ddeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Keep",
+    "Pronunciation": "kiːp",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kee/keep_/keep__gb_1.mp3",
+    "Present": "keep/keeps",
+    "PastSimple": "kept",
+    "PastParticiple": "kept",
+    "Spanish": "mantener",
+    "Photo": "https://images.unsplash.com/photo-1571603404945-46510c503d49?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Kneel",
+    "Pronunciation": "niːl",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kne/kneel/kneel__gb_1.mp3",
+    "Present": "kneel/kneels",
+    "PastSimple": "knelt",
+    "PastParticiple": "knelt",
+    "Spanish": "arrodillarse",
+    "Photo": "https://plus.unsplash.com/premium_photo-1663013398483-0ff3bd094d1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Know",
+    "Pronunciation": "nəʊ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kno/know_/know__gb_1.mp3",
+    "Present": "know/knows",
+    "PastSimple": "knew",
+    "PastParticiple": "known",
+    "Spanish": "saber/conocer",
+    "Photo": "https://images.unsplash.com/photo-1511174511562-5f7f18b874f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Lay",
+    "Pronunciation": "leɪ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lay/lay__/lay__gb_1.mp3",
+    "Present": "lay/lays",
+    "PastSimple": "laid",
+    "PastParticiple": "laid",
+    "Spanish": "poner/tumbar",
+    "Photo": "https://images.unsplash.com/photo-1526509429168-2e43f01f6b81?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TGF5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Lead",
+    "Pronunciation": "liːd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lea/lead_/lead__us_1.mp3",
+    "Present": "lead/leads",
+    "PastSimple": "led",
+    "PastParticiple": "led",
+    "Spanish": "liderar/guía",
+    "Photo": "https://images.unsplash.com/photo-1494947665470-20322015e3a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Leap",
+    "Pronunciation": "liːp",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lea/leap_/leap__us_1.mp3",
+    "Present": "leap/leaps",
+    "PastSimple": "leapt/leaped",
+    "PastParticiple": "leapt/leaped",
+    "Spanish": "saltar",
+    "Photo": "https://images.unsplash.com/photo-1517984922331-8dbaa8ffa9c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80"
+  },
+  {
+    "Verb": "Learn",
+    "Pronunciation": "lɜːn",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lea/learn_/learn__us_1.mp3",
+    "Present": "learn/learns",
+    "PastSimple": "learnt/learned",
+    "PastParticiple": "learnt/learned",
+    "Spanish": "aprender",
+    "Photo": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Leave",
+    "Pronunciation": "liːv",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lea/leave_/leave__us_1.mp3",
+    "Present": "leave/leaves",
+    "PastSimple": "left",
+    "PastParticiple": "left",
+    "Spanish": "dejar/salir",
+    "Photo": "https://plus.unsplash.com/premium_photo-1686963590730-cb427072d5db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TGVhdmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Lend",
+    "Pronunciation": "lend",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/len/lend_/lend__gb_2.mp3",
+    "Present": "lend/lends",
+    "PastSimple": "lent",
+    "PastParticiple": "lent",
+    "Spanish": "prestar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1681408249339-3ac690151643?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Let",
+    "Pronunciation": "let",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/let/let__/let__us_2.mp3",
+    "Present": "let/lets",
+    "PastSimple": "let",
+    "PastParticiple": "let",
+    "Spanish": "dejar/permitir",
+    "Photo": "https://images.unsplash.com/photo-1649779455753-10bcc90b2206?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGVybWl0aXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Lie",
+    "Pronunciation": "laɪ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lie/lie__/lie__us_1.mp3",
+    "Present": "lie/lies",
+    "PastSimple": "lay/laid",
+    "PastParticiple": "lain",
+    "Spanish": "mentir",
+    "Photo": "https://images.unsplash.com/photo-1618710250233-dd515c3415ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHBvbGl0aWNvfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Light",
+    "Pronunciation": "laɪt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lig/light_/light__us_1.mp3",
+    "Present": "light/lights",
+    "PastSimple": "lit",
+    "PastParticiple": "lit",
+    "Spanish": "encender/iluminar",
+    "Photo": "https://images.unsplash.com/photo-1542785291-fe3faea39066?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80"
+  },
+  {
+    "Verb": "Lose",
+    "Pronunciation": "luːz",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/los/lose_/lose__us_1.mp3",
+    "Present": "lose/loses",
+    "PastSimple": "lost",
+    "PastParticiple": "lost",
+    "Spanish": "perder",
+    "Photo": "https://plus.unsplash.com/premium_photo-1670183858867-6e7f7ebc8d35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
+  },
+  {
+    "Verb": "Make",
+    "Pronunciation": "meɪk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mak/make_/make__us_3.mp3",
+    "Present": "make/makes",
+    "PastSimple": "made",
+    "PastParticiple": "made",
+    "Spanish": "hacer",
+    "Photo": "https://images.unsplash.com/photo-1528712306091-ed0763094c98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1940&q=80"
+  },
+  {
+    "Verb": "Mean",
+    "Pronunciation": "miːn",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/mean_/mean__us_1.mp3",
+    "Present": "mean/means",
+    "PastSimple": "meant",
+    "PastParticiple": "meant",
+    "Spanish": "significar",
+    "Photo": "https://images.unsplash.com/photo-1505816014357-96b5ff457e9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1933&q=80"
+  },
+  {
+    "Verb": "Meet",
+    "Pronunciation": "miːt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mee/meet_/meet__us_1.mp3",
+    "Present": "meet/meets",
+    "PastSimple": "met",
+    "PastParticiple": "met",
+    "Spanish": "conocer/encontrar/reunirse",
+    "Photo": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80"
+  },
+  {
+    "Verb": "Melt",
+    "Pronunciation": "melt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mel/melt_/melt__us_1.mp3",
+    "Present": "melt/melts",
+    "PastSimple": "melted",
+    "PastParticiple": "melted",
+    "Spanish": "derretir",
+    "Photo": "https://images.unsplash.com/photo-1612881446139-c912739c5a02?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1984&q=80"
+  },
+  {
+    "Verb": "Mistake",
+    "Pronunciation": "mɪˈsteɪk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mis/mistak/mistak__gb_1.mp3",
+    "Present": "mistake/mistakes",
+    "PastSimple": "mistook",
+    "PastParticiple": "mistaken",
+    "Spanish": "confundir",
+    "Photo": "https://images.unsplash.com/photo-1509047319667-c1a8de3000c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80"
+  },
+  {
+    "Verb": "Overcome",
+    "Pronunciation": "ˌəʊvəˈkʌm",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/ove/overc/overc__gb_1.mp3",
+    "Present": "overcome/overcomes",
+    "PastSimple": "overcame",
+    "PastParticiple": "overcome",
+    "Spanish": "superar",
+    "Photo": "https://images.unsplash.com/photo-1440114071841-493f350845eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Overtake",
+    "Pronunciation": "ˌəʊvəˈteɪk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/ove/overt/overt__us_1.mp3",
+    "Present": "overtake/overtakes",
+    "PastSimple": "overtook",
+    "PastParticiple": "overtaken",
+    "Spanish": "adelantar",
+    "Photo": "https://images.unsplash.com/photo-1627315890797-fd3bf5e16c71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1931&q=80"
+  },
+  {
+    "Verb": "Pay",
+    "Pronunciation": "peɪ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pay/pay__/pay__us_1.mp3",
+    "Present": "pay/pays",
+    "PastSimple": "paid",
+    "PastParticiple": "paid",
+    "Spanish": "pagar",
+    "Photo": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Put",
+    "Pronunciation": "pʊt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/put/put__/put__us_2.mp3",
+    "Present": "put/puts",
+    "PastSimple": "put",
+    "PastParticiple": "put",
+    "Spanish": "poner",
+    "Photo": "https://images.unsplash.com/photo-1522198763288-96e9f39904af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Quit",
+    "Pronunciation": "kwɪt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quit_/quit__gb_2.mp3",
+    "Present": "quit/quits",
+    "PastSimple": "quit",
+    "PastParticiple": "quit",
+    "Spanish": "renunciar/dejar",
+    "Photo": "https://images.unsplash.com/photo-1582782657709-a4a0fd0a767e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80"
+  },
+  {
+    "Verb": "Read",
+    "Pronunciation": "riːd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/read_/read__gb_1.mp3",
+    "Present": "read/reads",
+    "PastSimple": "read",
+    "PastParticiple": "read",
+    "Spanish": "leer",
+    "Photo": "https://images.unsplash.com/photo-1491309055486-24ae511c15c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Ride",
+    "Pronunciation": "raɪd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rid/ride_/ride__us_1.mp3",
+    "Present": "ride/rides",
+    "PastSimple": "rode",
+    "PastParticiple": "ridden",
+    "Spanish": "montar/pasear",
+    "Photo": "https://images.unsplash.com/photo-1542715339-83599a9f0432?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8UmlkZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Ring",
+    "Pronunciation": "rɪŋ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rin/ring_/ring__gb_1.mp3",
+    "Present": "ring/rings",
+    "PastSimple": "rang",
+    "PastParticiple": "rung",
+    "Spanish": "llamar/sonar",
+    "Photo": "https://images.unsplash.com/photo-1503324010925-71cfe52dad2a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Rise",
+    "Pronunciation": "raɪz",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ris/rise_/rise__us_1.mp3",
+    "Present": "rise/rises",
+    "PastSimple": "rose",
+    "PastParticiple": "risen",
+    "Spanish": "elevarse/ascender",
+    "Photo": "https://images.unsplash.com/photo-1517728848779-e95acb6ac40f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Run",
+    "Pronunciation": "rʌn",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/run/run__/run__us_1.mp3",
+    "Present": "run/runs",
+    "PastSimple": "ran",
+    "PastParticiple": "run",
+    "Spanish": "correr",
+    "Photo": "https://plus.unsplash.com/premium_photo-1664537976485-86c3a5d22ce9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Say",
+    "Pronunciation": "seɪ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/say/say__/say__us_2.mp3",
+    "Present": "say/says",
+    "PastSimple": "said",
+    "PastParticiple": "said",
+    "Spanish": "decir",
+    "Photo": "https://images.unsplash.com/photo-1640826186137-df742adf1e43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "See",
+    "Pronunciation": "siː",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/see/see__/see__us_1.mp3",
+    "Present": "see/sees",
+    "PastSimple": "saw",
+    "PastParticiple": "seen",
+    "Spanish": "ver",
+    "Photo": "https://images.unsplash.com/photo-1529672425113-d3035c7f4837?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Seek",
+    "Pronunciation": "siːk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/see/seek_/seek__us_1.mp3",
+    "Present": "seek/seeks",
+    "PastSimple": "sought",
+    "PastParticiple": "sought",
+    "Spanish": "buscar",
+    "Photo": "https://images.unsplash.com/photo-1553895501-af9e282e7fc1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Sell",
+    "Pronunciation": "sel",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sel/sell_/sell__us_1.mp3",
+    "Present": "sell/sells",
+    "PastSimple": "sold",
+    "PastParticiple": "sold",
+    "Spanish": "vender",
+    "Photo": "https://images.unsplash.com/photo-1556742212-5b321f3c261b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Send",
+    "Pronunciation": "send",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sen/send_/send__us_1.mp3",
+    "Present": "send/sends",
+    "PastSimple": "sent",
+    "PastParticiple": "sent",
+    "Spanish": "enviar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1683147782522-b407a5fb21de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U2VuZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Set",
+    "Pronunciation": "set",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/set/set__/set__us_2.mp3",
+    "Present": "set/sets",
+    "PastSimple": "set",
+    "PastParticiple": "set",
+    "Spanish": "establecer/poner",
+    "Photo": "https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2059&q=80"
+  },
+  {
+    "Verb": "Shake",
+    "Pronunciation": "ʃeɪk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sha/shake_/shake__gb_1.mp3",
+    "Present": "shake/shakes",
+    "PastSimple": "shook",
+    "PastParticiple": "shaken",
+    "Spanish": "agitar",
+    "Photo": "https://images.unsplash.com/photo-1545153996-46ecc91ecc2f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1861&q=80"
+  },
+  {
+    "Verb": "Shed",
+    "Pronunciation": "ʃed",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/she/shed_/shed__us_1.mp3",
+    "Present": "shed/sheds",
+    "PastSimple": "shed",
+    "PastParticiple": "shed",
+    "Spanish": "derramar/verter",
+    "Photo": "https://images.unsplash.com/photo-1505985234602-75cfa9ad9de5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Shine",
+    "Pronunciation": "ʃaɪn",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/shi/shine_/shine__gb_1.mp3",
+    "Present": "shine/shines",
+    "PastSimple": "shone",
+    "PastParticiple": "shone",
+    "Spanish": "brillar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1661963660548-7d6d6d65860c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Shoot",
+    "Pronunciation": "ʃuːt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sho/shoot_/shoot__gb_1.mp3",
+    "Present": "shoot/shoots",
+    "PastSimple": "shot",
+    "PastParticiple": "shot",
+    "Spanish": "disparar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1663091550962-b9db74b26c8e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U2hvb3R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Show",
+    "Pronunciation": "ʃəʊ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sho/show_/show__gb_1.mp3",
+    "Present": "show/shows",
+    "PastSimple": "showed",
+    "PastParticiple": "shown",
+    "Spanish": "mostrar",
+    "Photo": "https://images.unsplash.com/photo-1472415825778-0e0a7f363a64?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80"
+  },
+  {
+    "Verb": "Shrink",
+    "Pronunciation": "ʃrɪŋk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/shr/shrink_/shrink__gb_1.mp3",
+    "Present": "shrink/shrinks",
+    "PastSimple": "shrank",
+    "PastParticiple": "shrunk",
+    "Spanish": "encoger",
+    "Photo": "https://images.unsplash.com/photo-1495554626159-905646f110da?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80"
+  },
+  {
+    "Verb": "Shut",
+    "Pronunciation": "ʃʌt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/shu/shut_/shut__gb_1.mp3",
+    "Present": "shut/shuts",
+    "PastSimple": "shut",
+    "PastParticiple": "shut",
+    "Spanish": "cerrar",
+    "Photo": "https://images.unsplash.com/photo-1519973759984-cf5a6c557cd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80"
+  },
+  {
+    "Verb": "Sing",
+    "Pronunciation": "sɪŋ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sin/sing_/sing__us_1.mp3",
+    "Present": "sing/sings",
+    "PastSimple": "sang",
+    "PastParticiple": "sung",
+    "Spanish": "cantar",
+    "Photo": "https://images.unsplash.com/photo-1599467556385-48b57868f038?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
+  },
+  {
+    "Verb": "Sink",
+    "Pronunciation": "sɪŋk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sin/sink_/sink__us_1.mp3",
+    "Present": "sink/sinks",
+    "PastSimple": "sank",
+    "PastParticiple": "sunk",
+    "Spanish": "hundir",
+    "Photo": "https://images.unsplash.com/photo-1500099817043-86d46000d58f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Sit",
+    "Pronunciation": "sɪt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sit/sit__/sit__us_1.mp3",
+    "Present": "sit/sits",
+    "PastSimple": "sat",
+    "PastParticiple": "sat",
+    "Spanish": "sentarse",
+    "Photo": "https://images.unsplash.com/photo-1488161628813-04466f872be2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80"
+  },
+  {
+    "Verb": "Sleep",
+    "Pronunciation": "sliːp",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sle/sleep_/sleep__us_1.mp3",
+    "Present": "sleep/sleeps",
+    "PastSimple": "slept",
+    "PastParticiple": "slept",
+    "Spanish": "dormir",
+    "Photo": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2060&q=80"
+  },
+  {
+    "Verb": "Slide",
+    "Pronunciation": "slaɪd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sli/slide_/slide__us_1.mp3",
+    "Present": "slide/slides",
+    "PastSimple": "slid",
+    "PastParticiple": "slid",
+    "Spanish": "deslizar",
+    "Photo": "https://images.unsplash.com/photo-1631755808140-60b5e4941649?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2067&q=80"
+  },
+  {
+    "Verb": "Smell",
+    "Pronunciation": "smel",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sme/smell_/smell__gb_1.mp3",
+    "Present": "smell/smells",
+    "PastSimple": "smelt",
+    "PastParticiple": "smelt",
+    "Spanish": "oler",
+    "Photo": "https://images.unsplash.com/photo-1594152324190-6564a21f3553?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Speak",
+    "Pronunciation": "spiːk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spe/speak_/speak__us_1.mp3",
+    "Present": "speak/speaks",
+    "PastSimple": "spoke",
+    "PastParticiple": "spoken",
+    "Spanish": "hablar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1661661835553-e748d0b228c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Speed",
+    "Pronunciation": "spiːd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spe/speed_/speed__us_1.mp3",
+    "Present": "speed/speeds",
+    "PastSimple": "sped",
+    "PastParticiple": "sped",
+    "Spanish": "acelerar",
+    "Photo": "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1998&q=80"
+  },
+  {
+    "Verb": "Spell",
+    "Pronunciation": "spel",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spe/spell_/spell__us_1.mp3",
+    "Present": "spell/spells",
+    "PastSimple": "spelt",
+    "PastParticiple": "spelt",
+    "Spanish": "deletrear",
+    "Photo": "https://images.unsplash.com/photo-1585859158547-250b39b92779?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fFNwZWxsfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Spend",
+    "Pronunciation": "spend",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spe/spend_/spend__us_1.mp3",
+    "Present": "spend/spends",
+    "PastSimple": "spent",
+    "PastParticiple": "spent",
+    "Spanish": "gastar/pasar tiempo",
+    "Photo": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Spill",
+    "Pronunciation": "spɪl",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spi/spill_/spill__us_1.mp3",
+    "Present": "spill/spills",
+    "PastSimple": "spilt",
+    "PastParticiple": "spilt",
+    "Spanish": "derramar",
+    "Photo": "https://images.unsplash.com/photo-1565136461909-046a4b8292e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80"
+  },
+  {
+    "Verb": "Spin",
+    "Pronunciation": "spɪn",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spi/spin_/spin__us_1.mp3",
+    "Present": "spin/spins",
+    "PastSimple": "spun",
+    "PastParticiple": "spun",
+    "Spanish": "girar/hilvanar",
+    "Photo": "https://images.unsplash.com/photo-1518440067858-55678e303a04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Spit",
+    "Pronunciation": "spɪt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spi/spit_/spit__us_1.mp3",
+    "Present": "spit/spits",
+    "PastSimple": "spat",
+    "PastParticiple": "spat",
+    "Spanish": "escupir",
+    "Photo": "https://images.unsplash.com/photo-1522073492750-2e796a51e209?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Split",
+    "Pronunciation": "splɪt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spl/split_/split__us_1.mp3",
+    "Present": "split/splits",
+    "PastSimple": "split",
+    "PastParticiple": "split",
+    "Spanish": "dividir",
+    "Photo": "https://images.unsplash.com/photo-1534559733674-bf89abe1dda5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80"
+  },
+  {
+    "Verb": "Spread",
+    "Pronunciation": "spred",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spr/spread_/spread__us_1.mp3",
+    "Present": "spread/spreads",
+    "PastSimple": "spread",
+    "PastParticiple": "spread",
+    "Spanish": "extender",
+    "Photo": "https://images.unsplash.com/photo-1585511426526-a21c74efa642?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Spring",
+    "Pronunciation": "sprɪŋ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spr/spring_/spring__us_1.mp3",
+    "Present": "spring/springs",
+    "PastSimple": "sprang",
+    "PastParticiple": "sprung",
+    "Spanish": "saltar",
+    "Photo": "https://images.unsplash.com/photo-1531879251-3da65dd78c99?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Stand",
+    "Pronunciation": "stænd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sta/stand_/stand__us_1.mp3",
+    "Present": "stand/stands",
+    "PastSimple": "stood",
+    "PastParticiple": "stood",
+    "Spanish": "estar de pie",
+    "Photo": "https://images.unsplash.com/photo-1465843958296-7ecf7f5ffa10?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Steal",
+    "Pronunciation": "stiːl",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/ste/steal_/steal__gb_1.mp3",
+    "Present": "steal/steals",
+    "PastSimple": "stole",
+    "PastParticiple": "stolen",
+    "Spanish": "robar",
+    "Photo": "https://images.unsplash.com/photo-1522039824777-f813e0c1448f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8U3RlYWx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Stick",
+    "Pronunciation": "stɪk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sti/stick_/stick__us_1.mp3",
+    "Present": "stick/sticks",
+    "PastSimple": "stuck",
+    "PastParticiple": "stuck",
+    "Spanish": "pegar",
+    "Photo": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2076&q=80"
+  },
+  {
+    "Verb": "Sting",
+    "Pronunciation": "stɪŋ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sti/sting_/sting__us_1.mp3",
+    "Present": "sting/stings",
+    "PastSimple": "stung",
+    "PastParticiple": "stung",
+    "Spanish": "picar",
+    "Photo": "https://images.unsplash.com/photo-1498936178812-4b2e558d2937?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Stink",
+    "Pronunciation": "stɪŋk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sti/stink_/stink__us_1.mp3",
+    "Present": "stink/stinks",
+    "PastSimple": "stank",
+    "PastParticiple": "stunk",
+    "Spanish": "apestar",
+    "Photo": "https://images.unsplash.com/photo-1570623354073-69b1cfcada12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2076&q=80"
+  },
+  {
+    "Verb": "Strike",
+    "Pronunciation": "straɪk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/strike_/strike__us_1.mp3",
+    "Present": "strike/strikes",
+    "PastSimple": "struck",
+    "PastParticiple": "struck",
+    "Spanish": "golpear/declarar",
+    "Photo": "https://images.unsplash.com/photo-1647082494955-832d48d17b21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c3RyaWtlJTIwYSUyMHBvc2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "String",
+    "Pronunciation": "strɪŋ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/string_/string__gb_1.mp3",
+    "Present": "string/strings",
+    "PastSimple": "strung",
+    "PastParticiple": "strung",
+    "Spanish": "enhebrar",
+    "Photo": "https://images.unsplash.com/photo-1552427476-b28e59bf9cbf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Strive",
+    "Pronunciation": "straɪv",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/strive_/strive__gb_1.mp3",
+    "Present": "strive/strives",
+    "PastSimple": "strove",
+    "PastParticiple": "striven",
+    "Spanish": "esforzarse",
+    "Photo": "https://plus.unsplash.com/premium_photo-1670354739781-ba0f95601313?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Swear",
+    "Pronunciation": "sweər",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/swe/swear_/swear__gb_1.mp3",
+    "Present": "swear/swears",
+    "PastSimple": "swore",
+    "PastParticiple": "sworn",
+    "Spanish": "jurar",
+    "Photo": "https://images.unsplash.com/photo-1593526613712-7b4b9a707330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Sweep",
+    "Pronunciation": "swiːp",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sw/swEEP_/swEEP__us_1.mp3",
+    "Present": "sweep/sweeps",
+    "PastSimple": "swept",
+    "PastParticiple": "swept",
+    "Spanish": "barrer",
+    "Photo": "https://images.unsplash.com/photo-1608012075343-25226e3099f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2030&q=80"
+  },
+  {
+    "Verb": "Swim",
+    "Pronunciation": "swɪm",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sw/swim_/swim__us_1.mp3",
+    "Present": "swim/swims",
+    "PastSimple": "swam",
+    "PastParticiple": "swum",
+    "Spanish": "nadar",
+    "Photo": "https://images.unsplash.com/photo-1530549387789-4c1017266635?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Swing",
+    "Pronunciation": "swɪŋ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sw/swing_/swing__us_1.mp3",
+    "Present": "swing/swings",
+    "PastSimple": "swung",
+    "PastParticiple": "swung",
+    "Spanish": "balancear",
+    "Photo": "https://plus.unsplash.com/premium_photo-1664047543304-46053453449f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Take",
+    "Pronunciation": "teɪk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tak/take_/take__us_1.mp3",
+    "Present": "take/takes",
+    "PastSimple": "took",
+    "PastParticiple": "taken",
+    "Spanish": "tomar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1664303597346-9b8144bd3c7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Teach",
+    "Pronunciation": "tiːʧ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tea/teach_/teach__us_2.mp3",
+    "Present": "teach/teaches",
+    "PastSimple": "taught",
+    "PastParticiple": "taught",
+    "Spanish": "enseñar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1680807869393-e2c583d9057a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Tear",
+    "Pronunciation": "tɪr",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tea/tear_/tear__us_1.mp3",
+    "Present": "tear/tears",
+    "PastSimple": "tore",
+    "PastParticiple": "torn",
+    "Spanish": "romper/rasgar",
+    "Photo": "https://images.unsplash.com/photo-1618327907215-4e514efabd41?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2127&q=80"
+  },
+  {
+    "Verb": "Tell",
+    "Pronunciation": "tel",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tel/tell_/tell__us_1.mp3",
+    "Present": "tell/tells",
+    "PastSimple": "told",
+    "PastParticiple": "told",
+    "Spanish": "decir",
+    "Photo": "https://plus.unsplash.com/premium_photo-1661281339267-b2e209436b66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Think",
+    "Pronunciation": "θɪŋk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thi/think_/think__us_1.mp3",
+    "Present": "think/thinks",
+    "PastSimple": "thought",
+    "PastParticiple": "thought",
+    "Spanish": "pensar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1661265868843-8e4b530caa30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Throw",
+    "Pronunciation": "θroʊ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/throw_/throw__us_1.mp3",
+    "Present": "throw/throws",
+    "PastSimple": "threw",
+    "PastParticiple": "thrown",
+    "Spanish": "lanzar/tirar",
+    "Photo": "https://images.unsplash.com/photo-1536252107959-9aa5927cc6de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+  },
+  {
+    "Verb": "Thrust",
+    "Pronunciation": "θrʌst",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/thrust_/thrust__us_1.mp3",
+    "Present": "thrust/thrusts",
+    "PastSimple": "thrust",
+    "PastParticiple": "thrust",
+    "Spanish": "empujar/introducir",
+    "Photo": "https://images.unsplash.com/photo-1534841645203-8843b9ac9737?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Tread",
+    "Pronunciation": "tred",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tre/tread_/tread__us_1.mp3",
+    "Present": "tread/treads",
+    "PastSimple": "trod",
+    "PastParticiple": "trodden",
+    "Spanish": "pisar",
+    "Photo": "https://images.unsplash.com/photo-1526573461737-b504d8040d92?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Understand",
+    "Pronunciation": "ˌʌndərˈstænd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/und/understand_/understand__us_1.mp3",
+    "Present": "understand/understands",
+    "PastSimple": "understood",
+    "PastParticiple": "understood",
+    "Spanish": "entender",
+    "Photo": "https://plus.unsplash.com/premium_photo-1661749251880-10dd866048d0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Wake",
+    "Pronunciation": "weɪk",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wea/wake_/wake__us_1.mp3",
+    "Present": "wake/wakes",
+    "PastSimple": "woke",
+    "PastParticiple": "woken",
+    "Spanish": "despertar",
+    "Photo": "https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80"
+  },
+  {
+    "Verb": "Wear",
+    "Pronunciation": "wɛr",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wea/wear_/wear__us_1.mp3",
+    "Present": "wear/wears",
+    "PastSimple": "wore",
+    "PastParticiple": "worn",
+    "Spanish": "llevar/presumir",
+    "Photo": "https://images.unsplash.com/photo-1520965291898-92731ff2f8ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80"
+  },
+  {
+    "Verb": "Weave",
+    "Pronunciation": "wiːv",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wea/weave_/weave__us_1.mp3",
+    "Present": "weave/weaves",
+    "PastSimple": "wove",
+    "PastParticiple": "woven",
+    "Spanish": "tejer",
+    "Photo": "https://images.unsplash.com/photo-1534953342533-7711c98712be?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Wed",
+    "Pronunciation": "wɛd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wea/wed_/wed__us_1.mp3",
+    "Present": "wed/weds",
+    "PastSimple": "wed",
+    "PastParticiple": "wed",
+    "Spanish": "casar/emparentar",
+    "Photo": "https://images.unsplash.com/photo-1521543269800-27e08780ced7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Weep",
+    "Pronunciation": "wiːp",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wee/weep_/weep__us_1.mp3",
+    "Present": "weep/weeps",
+    "PastSimple": "wept",
+    "PastParticiple": "wept",
+    "Spanish": "llorar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1663090040750-aff7b32ae294?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "Verb": "Win",
+    "Pronunciation": "wɪn",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/win/win_/win__us_1.mp3",
+    "Present": "win/wins",
+    "PastSimple": "won",
+    "PastParticiple": "won",
+    "Spanish": "ganar",
+    "Photo": "https://images.unsplash.com/photo-1578269174936-2709b6aeb913?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
+  },
+  {
+    "Verb": "Wind",
+    "Pronunciation": "waɪnd",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/win/wind_/wind__us_1.mp3",
+    "Present": "wind/winds",
+    "PastSimple": "wound",
+    "PastParticiple": "wound",
+    "Spanish": "enrollar",
+    "Photo": "https://images.unsplash.com/photo-1680539517189-1c4f9a1aabd4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2080&q=80"
+  },
+  {
+    "Verb": "Withdraw",
+    "Pronunciation": "wɪðˈdrɔ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wit/withdraw_/withdraw__us_1.mp3",
+    "Present": "withdraw/withdraws",
+    "PastSimple": "withdrew",
+    "PastParticiple": "withdrawn",
+    "Spanish": "retirar",
+    "Photo": "https://plus.unsplash.com/premium_photo-1675626488146-4ea56121034b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8V2l0aGRyYXd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Wring",
+    "Pronunciation": "rɪŋ",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wri/wring_/wring__us_1.mp3",
+    "Present": "wring/wrings",
+    "PastSimple": "wrung",
+    "PastParticiple": "wrung",
+    "Spanish": "torcer/escurrir",
+    "Photo": "https://plus.unsplash.com/premium_photo-1680127645156-4aa37821309c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8V3Jpbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "Verb": "Write",
+    "Pronunciation": "raɪt",
+    "Sound": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wri/write_/write__us_1.mp3",
+    "Present": "write/writes",
+    "PastSimple": "wrote",
+    "PastParticiple": "written",
+    "Spanish": "escribir",
+    "Photo": "https://plus.unsplash.com/premium_photo-1663933533633-46907f337a4a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80"
+  }
+]
